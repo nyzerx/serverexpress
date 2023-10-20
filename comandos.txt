@@ -1,0 +1,11 @@
+Comandos que utilice para express con nodemon
+
+npm init -y: para crear el package.json de manera rapida
+
+npm install express: para instalar express
+
+npm install -g nodemon: para instalar nodemon de manera global
+
+npx nodemon index.js: para ejecutar el servidor
+
+npm install ejs: para instalar ejs
